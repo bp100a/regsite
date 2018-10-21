@@ -15,7 +15,11 @@ cover : "/images/SNA Image.jpg"
 ---
 My technical writing experience was an excellent preparation for a career as a researcher. In my writing, I focus on presenting information in a clear and concise manner and supporting my results and conclusions with well established theoretical underpinnings.
 <p>
-<a href="/publication/Share Alike.pdf">Share and Share Alike: Integrating Internet Resource Sharing Into Learning</a> - This paper is being presented at the 2015 Americas Conference on Information Systems (AMCIS) as a completed research paper. The research reported in this paper pulls from my doctoral dissertation and a complementary study conducted with other NJIT doctoral candidates.
+<a href="/publication/Learning with DM.pdf">Learning with Digital Media: Investigating the Relationships Between Student Citation Networks, Assignment Structures, and Learning Outcomes</a> - This paper was presented at the 2017 Hawaii Conference on System Science (HICSS) and is based on my doctoral dissertation.</p>
+<p>
+<a href="/publication/KM For Learning.pdf">Knowledge Management for Learning: ICT System Affordances and the Impact of Order of Use</a> - This paper was presented at the 2017 Hawaii Conference on System Science (HICSS) and is based on my doctoral dissertation.</p>
+<p>
+<a href="/publication/Share Alike.pdf">Share and Share Alike: Integrating Internet Resource Sharing Into Learning</a> - This paper was presented at the 2015 Americas Conference on Information Systems (AMCIS) and is based on my doctoral dissertation and a complementary study conducted with other NJIT doctoral candidates.
 <p>
 <a href="/publication/Do I Know What You Can See.pdf">Do I Know What You Can See? Social Networking Sites and Privacy management</a> - This paper was presented at the 2012 Americas Conference on Information Systems (AMCIS) and was nominated for Best Practitioner Oriented Paper.
 <p>
