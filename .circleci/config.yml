@@ -17,10 +17,7 @@ jobs:
 
       - run:
           name: install Hugo
-          command: |
-            sudo apt update
-            sudo apt install snapd
-            sudo snap install hugo
+          command: sudo apt-get install hugo=0.48
       - run:
           name: generate Site
           command: |
