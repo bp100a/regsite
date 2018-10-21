@@ -17,11 +17,12 @@ jobs:
 
       - run:
           name: install Hugo
-          command: sudo apt-get install hugo=0.48
+          command: sudo apt-get install hugo
       - run:
           name: generate Site
           command: |
             cat /etc/*-release
+            uname -a
             sed -i 's/baseurl = \"\"/baseurl = \"http:\/\/regcollins.com\/\"/g' config.toml
             cat config.toml
             ls -Rl
