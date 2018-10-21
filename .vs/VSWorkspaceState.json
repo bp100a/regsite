@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.circleci",
+    "\\content",
+    "\\static",
+    "\\static\\publications",
+    "\\themes",
+    "\\themes\\dream-plus",
+    "\\themes\\dream-plus\\archetypes",
+    "\\themes\\dream-plus\\layouts\\posts",
+    "\\themes\\dream-plus\\layouts\\taxonomy",
+    "\\themes\\dream-plus\\static\\js"
+  ],
+  "SelectedNode": "\\static\\publications\\Regina_Collins_CV.pdf",
+  "PreviewInSolutionExplorer": false
+}
