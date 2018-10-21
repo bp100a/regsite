@@ -25,7 +25,7 @@ jobs:
           command: |
             cat /etc/*-release
             uname -a
-            sed -i 's/baseurl = \"\"/baseurl = \"http:\/\/regcollins.com\/\"/g' config.toml
+            sed -i 's/baseurl = \"\"/baseurl = \"http:\/\/reginacollins.com\/\"/g' config.toml
             cat config.toml
             ls -Rl
             hugo -v

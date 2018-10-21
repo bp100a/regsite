@@ -18,7 +18,7 @@ enableEmoji=true
 [params]
 	author = "Regina Collins"
 	description = "Just a random blog for random stuff, mostly tech-related."
-	avatar = "/images/einstein.png"
+	avatar = "/images/Profile Picture.png"
 	motto = "If you can't explain it clearly, you don't know it well enough."
 	enableToc = true
 	enableShareCard = true
