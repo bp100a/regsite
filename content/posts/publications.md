@@ -11,7 +11,7 @@ categories:
 - publications
 tags:
 - papers
-cover : "/images/book1.jpg"
+cover : "/images/SNA Image.jpg"
 ---
 My technical writing experience was an excellent preparation for a career as a researcher. In my writing, I focus on presenting information in a clear and concise manner and supporting my results and conclusions with well established theoretical underpinnings.
 <p>
