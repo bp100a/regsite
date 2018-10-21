@@ -1,0 +1,78 @@
+﻿# Raspberry Pi CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-python/ for more details
+#
+version: 2
+jobs:
+  build:
+    docker:
+      # specify the version you desire here
+      # use `-browsers` prefix for selenium tests, e.g. `3.6.1-browsers`
+      - image: circleci/python:3.7.0
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      - run:
+          name: install Hugo
+          command: sudo apt-get install hugo
+      - run:
+          name: generate Site
+          command: |
+            pwd
+            hugo version
+            ls -al
+            cat /etc/*-release
+            sed -i 's/baseurl = \"\"/baseurl = \"http:\/\/regcollins.com\/\"/g' config.toml
+            cat config.toml
+            hugo -v
+      - run:
+          name: display generated Site
+          command: ls -al -R
+
+      - run:
+          name: make folders
+          command: mkdir test-reports
+
+      - store_artifacts:
+          path: public/
+
+      - store_test_results:
+          path: public/
+      - run:
+          name: zip up generated Site
+          command: |
+             cd public
+             zip -r ../public.zip  *
+      - run:
+          name: stash zipfile as artifact
+          command: |
+             mkdir zipfile
+             mv public.zip zipfile/public.zip
+      - store_artifacts:
+          path: zipfile/
+
+      - add_ssh_keys:
+          fingerprints:
+            - "fc:24:63:d6:76:a1:4f:d5:c3:ef:f0:74:65:0b:e4:64"
+      - run:
+          name: install SSH clients
+          command: sudo apt-get install openssh-client
+      - run:
+          name: Display Hugo Site
+          command: ls public -al
+      - run:
+          name: Access Raspberry Pi
+          command: |
+            sudo echo $PIBLOG_HOSTKEY >> ~/.ssh/known_hosts
+            scp -r public/* pi@$PIBLOG:/var/www/html/reginacollins
+            ls -al
+
+
+workflows:
+  version: 2
+  workflow:
+    jobs:
+      - build
