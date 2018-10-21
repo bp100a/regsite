@@ -21,12 +21,10 @@ jobs:
       - run:
           name: generate Site
           command: |
-            pwd
-            hugo version
-            ls -al
             cat /etc/*-release
             sed -i 's/baseurl = \"\"/baseurl = \"http:\/\/regcollins.com\/\"/g' config.toml
             cat config.toml
+            ls -Rl
             hugo -v
       - run:
           name: display generated Site
