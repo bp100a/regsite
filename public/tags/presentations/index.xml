@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Regina Collins&#39; Blog</title>
+    <link>/tags/presentations/</link>
+    <description>Recent content in Presentations on Regina Collins&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentations</title>
+      <link>/posts/presentations/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentations/</guid>
+      <description>In addition to papers, an important way for researchers to communicate their work is through posters and presentations.  The following links provide some highlights of my research posters. Presentations can be viewed on SlideShare.  More Than The Sum of Its Parts: Advancing Women at NJIT Through Collaborative Research Networks - Having been nominated to present my research at the Dana Knox Student Research Showcase, I designed this poster to highlight research we were doing to understand the position of women faculty in their departmental social networks, seeking to understand if isolation or other factors caused women faculty to be underrepresented in the university.</description>
+    </item>
+    
+  </channel>
+</rss>

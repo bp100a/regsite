@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Regina Collins&#39; Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Regina Collins&#39; Blog</description>
+    <meta name="generator" content="Hugo 0.49.2" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/posts/resume/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/resume/</guid>
+      <description>My professional summary...</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/posts/publications/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/publications/</guid>
+      <description>My research...</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/posts/teaching/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/teaching/</guid>
+      <description>Classes I teach...</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/posts/presentations/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentations/</guid>
+      <description>Communicating my work...</description>
+    </item>
+    
+    <item>
+      <title>Technical Writing</title>
+      <link>/posts/technical-writing/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/technical-writing/</guid>
+      <description>My Technical Communication skills...</description>
+    </item>
+    
+  </channel>
+</rss>

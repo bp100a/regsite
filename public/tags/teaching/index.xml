@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Regina Collins&#39; Blog</title>
+    <link>/tags/teaching/</link>
+    <description>Recent content in Teaching on Regina Collins&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/posts/resume/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/resume/</guid>
+      <description>Click here to view a copy of my Curriculum Vitae. As you will see, I have accumulated a unique set of skills and experiences throughout my studies and my career. Some highlights of my CV include:  I have taught traditional (face to face) and distance/online Information Systems courses at both the undergraduate and graduate level. I have worked as a Research Assistant on a number of projects including Entrepreneurship education, advancing women in STEM, and Open Knowledge Exchange in academic research and publishing.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/posts/teaching/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/teaching/</guid>
+      <description>Learning to be a teacher - to facilitate the learning of the students in your class - is a critical skill. To ensure that doctoral students are well prepared for careers as instructors, New Jersey Institute of Technology requires that students teach at least one course during their time as a doctoral candidate. I am fortunate to have gained invaluable teaching experience through various stages of exposure to instruction.  I started as a Teaching Assistant for the graduate-level Systems Analysis and Design course for two semesters.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Regina Collins&#39; Blog</title>
+    <link>/tags/papers/</link>
+    <description>Recent content in Papers on Regina Collins&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>/posts/publications/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/publications/</guid>
+      <description>My technical writing experience was an excellent preparation for a career as a researcher. In my writing, I focus on presenting information in a clear and concise manner and supporting my results and conclusions with well established theoretical underpinnings.  Share and Share Alike: Integrating Internet Resource Sharing Into Learning - This paper is being presented at the 2015 Americas Conference on Information Systems (AMCIS) as a completed research paper. The research reported in this paper pulls from my doctoral dissertation and a complementary study conducted with other NJIT doctoral candidates.</description>
+    </item>
+    
+  </channel>
+</rss>
