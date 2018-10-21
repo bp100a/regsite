@@ -23,7 +23,7 @@ My technical writing experience was an excellent preparation for a career as a r
 <p>
 <a href="/publication/Do I Know What You Can See.pdf">Do I Know What You Can See? Social Networking Sites and Privacy management</a> - This paper was presented at the 2012 Americas Conference on Information Systems (AMCIS) and was nominated for Best Practitioner Oriented Paper.
 <p>
-<a href="/publication/Facebook Newsfeed.pdf">Facebook Newsfeed - Relevance or Noise - This paper was presented at the 2012 Americas Conference on Information Systems (AMCIS).
+<a href="/publication/Facebook Newsfeed.pdf">Facebook Newsfeed - Relevance or Noise</a> - This paper was presented at the 2012 Americas Conference on Information Systems (AMCIS).</p>
 <p>
 <a href="/publication/Hybrid Framework.pdf">Knowing Together, Learning Apart: A Proposed Framework for Supporting Individual Learning Through Collaborative Knowledge Building Tools</a> - This paper was presented at the 2012 International Conference on Information Systems (ICIS) as a Research In Progress paper with an accompanying poster.
 <p>
